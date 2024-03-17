@@ -1,0 +1,1 @@
+javascript:(function(){var t=prompt("Please enter the text you want to write:"),s=prompt("Please enter the CSS selector of the target element:"),e=document.querySelector(s);e&&t&&(e.value=t)})();
